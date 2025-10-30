@@ -1,0 +1,7 @@
+{
+  "name": "Opal AI: Korean Language Tutor",
+  "description": "An interactive AI-powered chat application designed to help Russian-speaking middle school students learn Korean through engaging conversations about school life, K-Pop, and hobbies.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
